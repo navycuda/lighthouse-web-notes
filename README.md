@@ -1,1 +1,5 @@
-# The Detailed and Well Presented Notes of Shane Des Rochers
+# Shane Des Rochers's Notes
+
+## Summary
+
+This repository is the focal point of the notes taken by me for the Lightouse Labs Bootcamp.
